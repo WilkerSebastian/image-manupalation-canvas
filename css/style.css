@@ -11,3 +11,14 @@ footer {
     background-color: rgb(15, 15, 15);
 
 }
+
+@media (max-width: 480px) {
+
+    #canvas {
+
+        height: 100%;
+        width: 100%;
+        border: 1px solid rgb(88, 0, 146);
+    
+    }
+}
